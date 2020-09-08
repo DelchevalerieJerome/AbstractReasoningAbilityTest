@@ -1,0 +1,9 @@
+The explanation of the procedure is written in French.
+
+(08/09/2020)
+Ce projet à pour but d'afficher tout une interface permettant à un utilisateur de faire des tests de capacité de raisonnement abstrait (comme on en trouve au Selor)
+Je vais essayer d'y appliquer les principe de la méthodologie Scrum en y intégrant des Sprints (itération où j'essaie d'avoir quelque chose de concret).
+Je vais utiliser du PHP pour avoir directement un visuel sur le résultat ( grace à WAMP)
+La fin du sprint est fixé au lundi : J'essaye d'y finir ce que je me suis fixé.
+
+Les tests sont inspirés d'un livre qui montre plusieurs listes de ces tests ( afin de s'y exercer ).
